@@ -12,7 +12,7 @@
     "@babel/preset-env": "^7.3.1",
     "babel-loader": "8",
     "es6-promise": "^4.0.5",
-    "express": "^4.15.2",
+    "express": "^4.17.3",
     "fetch-ponyfill": "^3.0.2",
     "karma-sourcemap-loader": "^0.3.7",
     "urijs": "^1.18.4"
